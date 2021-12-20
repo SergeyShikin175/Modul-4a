@@ -1,4 +1,4 @@
-(function(window) {
+(function (window) {
 
   var speakWord = "Hello ";
   var helloSpeaker = function (name) {
